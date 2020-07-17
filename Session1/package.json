@@ -1,5 +1,5 @@
 {
-  "name": "mobilenet_lambda",
+  "name": "mobilenetV2-pytorch-example",
   "description": "",
   "version": "0.1.0",
   "dependencies": {},
