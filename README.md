@@ -6,4 +6,3 @@ The flow of the assignments is as follows:
     - Deploying MobileNetV2 on AWS Lambda
     
 2. Session 2
-    - 
