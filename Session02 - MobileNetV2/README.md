@@ -1,7 +1,8 @@
 # Session 2 - MobileNetV2
 
 In this assignment we have trained a model on a dataset with nearly 22,000 images collected from various sources. The images consist of flying objects. The entire dataset is divided into 4 classes - Flying Birds, Large Quadcopters, Small Quadcopters, and Winged Drones. We have named this dataset as IFO Dataset. The model trained has an underlying architecture of Mobilenet V2.
-The prime objective of this assignment is to deploy this model on AWS lambda after training and to be able to classify images using a POST request from the URL generated after deployment.  
+The prime objective of this assignment is to deploy this model on AWS lambda after training and to be able to classify images using a POST request from the URL generated after deployment.    
+Find the ipynb used for training [here](https://github.com/Divya932/EVA4-Phase-2/blob/master/Session02%20-%20MobileNetV2/phase2_session2.ipynb)
 
 The model reaches a test accuracy of **89.20%** and has been trained for **12 Epochs**.
 
