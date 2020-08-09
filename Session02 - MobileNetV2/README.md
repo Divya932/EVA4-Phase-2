@@ -169,11 +169,9 @@ Epoch 3:
  4/58 [........] - ETA: 32:47 - loss: 0.3525 - accuracy: 87.2375
 
 17/58 [=>......] - ETA: 8:26 - loss: 0.3576 - accuracy: 86.7047
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 18/58 [=>......] - ETA: 8:55 - loss: 0.3556 - accuracy: 86.7044
-/usr/local/lib/python3.6/dist-packages/PIL/TiffImagePlugin.py:788: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
-  warnings.warn(str(msg))
+
 58/58 [========] - 341s 6s/step - loss: 0.3443 - accuracy: 86.6369
 
 Validation set (took 3 minutes, 23 seconds): Average loss: 0.0014, accuracy: 87.21
@@ -183,211 +181,106 @@ val_accuracy improved from 86.19000 to 87.21000. Saving model to checkpoints/mod
 Epoch 4:
 
 15/58 [=>......] - ETA: 10:27 - loss: 0.3367 - accuracy: 87.4080
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 31/58 [===>....] - ETA: 4:31 - loss: 0.3168 - accuracy: 87.4532
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 33/58 [===>....] - ETA: 4:17 - loss: 0.3170 - accuracy: 87.4736
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 58/58 [========] - 366s 6s/step - loss: 0.3043 - accuracy: 87.7531
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 Validation set (took 3 minutes, 8 seconds): Average loss: 0.0013, accuracy: 88.01
 
 val_accuracy improved from 87.21000 to 88.01000. Saving model to checkpoints/model.pt
 
-Epoch 5:
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+Epoch 5:  
+
 15/58 [=>......] - ETA: 9:17 - loss: 0.2860 - accuracy: 88.9940 
-/usr/local/lib/python3.6/dist-packages/PIL/TiffImagePlugin.py:788: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
-  warnings.warn(str(msg))
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 31/58 [===>....] - ETA: 3:50 - loss: 0.2732 - accuracy: 89.0342
-/usr/local/lib/python3.6/dist-packages/PIL/TiffImagePlugin.py:788: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
-  warnings.warn(str(msg))
+
 43/58 [====>...] - ETA: 1:45 - loss: 0.2663 - accuracy: 89.1677
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 47/58 [=====>..] - ETA: 1:11 - loss: 0.2634 - accuracy: 89.2270
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 58/58 [========] - 332s 6s/step - loss: 0.2597 - accuracy: 89.3876
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 Validation set (took 3 minutes, 26 seconds): Average loss: 0.0013, accuracy: 88.36
 
 val_accuracy improved from 88.01000 to 88.36000. Saving model to checkpoints/model.pt
 
 Epoch 6:
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 15/58 [=>......] - ETA: 8:11 - loss: 0.2573 - accuracy: 90.5147
 /usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+  
 26/58 [==>.....] - ETA: 5:05 - loss: 0.2462 - accuracy: 90.5088
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 58/58 [========] - 334s 6s/step - loss: 0.2502 - accuracy: 90.6828
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 Validation set (took 2 minutes, 54 seconds): Average loss: 0.0014, accuracy: 87.48
 
-Epoch 7:
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/TiffImagePlugin.py:788: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
-  warnings.warn(str(msg))
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+Epoch 7:  
+
  3/58 [........] - ETA: 1:05:19 - loss: 0.2600 - accuracy: 90.7700
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 15/58 [=>......] - ETA: 10:49 - loss: 0.2413 - accuracy: 90.3507
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 27/58 [==>.....] - ETA: 6:05 - loss: 0.2378 - accuracy: 90.5189
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 31/58 [===>....] - ETA: 4:41 - loss: 0.2339 - accuracy: 90.5832
-/usr/local/lib/python3.6/dist-packages/PIL/TiffImagePlugin.py:788: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
-  warnings.warn(str(msg))
+
 58/58 [========] - 384s 7s/step - loss: 0.2297 - accuracy: 90.9169
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 Validation set (took 2 minutes, 56 seconds): Average loss: 0.0014, accuracy: 88.68
 
 val_accuracy improved from 88.36000 to 88.68000. Saving model to checkpoints/model.pt
 
-Epoch 8:
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+Epoch 8:  
+
  1/58 [........] - ETA: 1:57:26 - loss: 0.2100 - accuracy: 93.3600  
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 16/58 [=>......] - ETA: 9:12 - loss: 0.2169 - accuracy: 91.8950
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 24/58 [==>.....] - ETA: 6:09 - loss: 0.2142 - accuracy: 91.9542
-/usr/local/lib/python3.6/dist-packages/PIL/TiffImagePlugin.py:788: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
-  warnings.warn(str(msg))
+
 32/58 [===>....] - ETA: 3:39 - loss: 0.2194 - accuracy: 91.9719
-/usr/local/lib/python3.6/dist-packages/PIL/TiffImagePlugin.py:788: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
-  warnings.warn(str(msg))
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 35/58 [===>....] - ETA: 3:11 - loss: 0.2194 - accuracy: 91.9674
-/usr/local/lib/python3.6/dist-packages/PIL/TiffImagePlugin.py:788: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
-  warnings.warn(str(msg))
+
 43/58 [====>...] - ETA: 1:50 - loss: 0.2160 - accuracy: 91.9558
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 58/58 [========] - 334s 6s/step - loss: 0.2169 - accuracy: 91.9581
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 Validation set (took 3 minutes, 53 seconds): Average loss: 0.0013, accuracy: 88.9
 
 val_accuracy improved from 88.68000 to 88.90000. Saving model to checkpoints/model.pt
 
 Epoch 9:
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
  1/58 [........] - ETA: 2:21:34 - loss: 0.1900 - accuracy: 92.7700  
-/usr/local/lib/python3.6/dist-packages/PIL/TiffImagePlugin.py:788: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
-  warnings.warn(str(msg))
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
  2/58 [........] - ETA: 1:18:13 - loss: 0.2200 - accuracy: 92.2850
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+  
 15/58 [=>......] - ETA: 8:59 - loss: 0.2160 - accuracy: 91.6513
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 33/58 [===>....] - ETA: 3:24 - loss: 0.2048 - accuracy: 91.8318
 
 34/58 [===>....] - ETA: 3:29 - loss: 0.2038 - accuracy: 91.8468
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 58/58 [========] - 333s 6s/step - loss: 0.1991 - accuracy: 92.1216
 
 Validation set (took 3 minutes, 29 seconds): Average loss: 0.0016, accuracy: 86.44
 
 Epoch 10:
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
  6/58 [........] - ETA: 26:05 - loss: 0.2083 - accuracy: 92.9350
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 15/58 [=>......] - ETA: 10:10 - loss: 0.1873 - accuracy: 92.8167
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 17/58 [=>......] - ETA: 9:41 - loss: 0.1876 - accuracy: 92.8382 
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 34/58 [===>....] - ETA: 3:52 - loss: 0.1785 - accuracy: 93.0638
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 58/58 [========] - 376s 6s/step - loss: 0.1793 - accuracy: 93.3083
 
 Validation set (took 3 minutes, 34 seconds): Average loss: 0.0014, accuracy: 89.2
@@ -405,14 +298,11 @@ Epoch 11:
 Validation set (took 3 minutes, 17 seconds): Average loss: 0.0015, accuracy: 88.42
 
 Epoch 12:
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 10/58 [>.......] - ETA: 16:20 - loss: 0.1990 - accuracy: 94.3890
-/usr/local/lib/python3.6/dist-packages/PIL/TiffImagePlugin.py:788: UserWarning: Corrupt EXIF data.  Expecting to read 4 bytes but only got 0. 
-  warnings.warn(str(msg))
+
 16/58 [=>......] - ETA: 9:43 - loss: 0.2044 - accuracy: 94.0250 
-/usr/local/lib/python3.6/dist-packages/PIL/Image.py:932: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
-  "Palette images with Transparency expressed in bytes should be "
+
 58/58 [========] - 340s 6s/step - loss: 0.1834 - accuracy: 93.4709
 
 Validation set (took 3 minutes, 8 seconds): Average loss: 0.0015, accuracy: 89.12
